@@ -1,0 +1,12 @@
+setup.py
+paw/__init__.py
+paw/__main__.py
+paw/ai.py
+paw/git.py
+paw/ui.py
+paw.egg-info/PKG-INFO
+paw.egg-info/SOURCES.txt
+paw.egg-info/dependency_links.txt
+paw.egg-info/entry_points.txt
+paw.egg-info/requires.txt
+paw.egg-info/top_level.txt
